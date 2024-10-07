@@ -1,4 +1,13 @@
 {
+    "scopedRegistries": [
+    {
+      "name": "package.openupm.com",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "com.neuecc.messagepack"
+      ]
+    }
+  ],
   "dependencies": {
     "com.meta.xr.sdk.all": "68.0.2",
     "com.unity.collab-proxy": "2.5.2",
