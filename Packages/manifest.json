@@ -1,5 +1,5 @@
 {
-    "scopedRegistries": [
+  "scopedRegistries": [
     {
       "name": "package.openupm.com",
       "url": "https://package.openupm.com",
@@ -10,8 +10,10 @@
   ],
   "dependencies": {
     "com.meta.xr.sdk.all": "68.0.2",
+    "com.unity.cloud.gltfast": "6.8.0",
     "com.unity.collab-proxy": "2.5.2",
     "com.unity.feature.development": "1.0.1",
+    "com.unity.postprocessing": "3.4.0",
     "com.unity.textmeshpro": "3.0.7",
     "com.unity.timeline": "1.7.6",
     "com.unity.ugui": "1.0.0",
