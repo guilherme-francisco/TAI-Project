@@ -5,8 +5,11 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/RainScene.unity
+    guid: 620025769c962ef44ac6fb6468cbfcef
   m_configObjects:
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 3da27f6156a55f14dbebc13488188206, type: 2}
